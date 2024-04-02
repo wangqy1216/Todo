@@ -1,0 +1,3 @@
+[submodule "study/huggingface_cookbook"]
+	path = study/huggingface_cookbook
+	url = https://github.com/huggingface/cookbook
