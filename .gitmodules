@@ -1,3 +1,7 @@
 [submodule "study/huggingface_cookbook"]
 	path = study/huggingface_cookbook
 	url = https://github.com/huggingface/cookbook
+
+[submodule "study/Advanced-RAG"]
+	path = study/Advanced-RAG
+	url = https://github.com/sugarforever/Advanced-RAG.git
